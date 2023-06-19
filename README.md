@@ -24,6 +24,10 @@ Classroom 级别, 通过 LMS 导入或手动管理的学生身份.
 
 参与 Assignment 的唯一身份, 与 Github Account 关联.
 
+## 课程内容
+
+从 Student 的角度, 学习 Github Classroom 的基本使用方法.
+
 ## 课程作业
 
 请通过 [Assignment 邀请链接](https://classroom.github.com/a/khy39RNF) 参加本课程学习, 并最终完成作业.
@@ -31,7 +35,4 @@ Classroom 级别, 通过 LMS 导入或手动管理的学生身份.
 ## 作业完成标准
 
 1. 所有测例全部通过
-2. Feedback已被Review并最终合并到 `main` 分支
-
-## 作业要求
-
+2. Feedback 已被 Review 并最终合并到 `main` 分支
