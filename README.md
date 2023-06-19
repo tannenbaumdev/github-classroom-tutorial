@@ -80,9 +80,11 @@ Classroom 级别, 通过 LMS 导入或手动管理的学生身份.
 {以下是你的学习笔记具体内容}
 ```
 
-### 本地安装 Cargo
+### Cargo
 
 Cargo 是面向 Rust 语言的一个强大的包管理工具, 请参考 [安装文档](https://doc.rust-lang.org/cargo/getting-started/installation.html), 在本地安装好 Cargo.
+
+安装完成后, 执行 `cargo init` 初始化, 并用 Git 提交生成的文件.
 
 ## 作业完成标准
 
